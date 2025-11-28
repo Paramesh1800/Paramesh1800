@@ -53,9 +53,11 @@
 
 ---
 
-## 💻 LeetCode Stats
+## 💻 LeetCode Stats & Streak
 <p align="center">
+  <!-- LeetCode stats card -->
   <img src="https://leetcode-stats.vercel.app/api?username=Paramesh18&theme=dark&show_icons=true"/>
+  <!-- LeetCard showing activity/streak -->
   <img src="https://leetcard.jacoblin.cool/Paramesh18?theme=dark"/>
 </p>
 
@@ -71,5 +73,8 @@
   </a>
   <a href="https://paramesh-s.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Paramesh1800" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
   </a>
 </p>
