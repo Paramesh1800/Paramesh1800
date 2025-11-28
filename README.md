@@ -24,22 +24,31 @@
 ---
 
 ## 🚀 Projects
+
 <p align="center">
-  <b>Automated Vulnerability Scanner</b> — Web application scanner to detect XSS & SQL Injection vulnerabilities.<br>
-  <b>Email Spoofing Detector</b> — Detects spoofed emails using Gmail API and SPF/DMARC validation.<br>
-  <b>Multi TWS Audio Streaming</b> — Real-time audio streaming across multiple devices using WebSocket.
-</p>
+<b><ol>1. Automated Vulnerability Scanner</b> — Web application scanner to detect XSS & SQL Injection vulnerabilities.<br>
+<b>2. Email Spoofing Detector</b> — Detects spoofed emails using Gmail API and SPF/DMARC validation.<br>
+<b>3. Multi TWS Audio Streaming</b> — Real-time audio streaming across multiple devices using WebSocket.
+</ol></p>
 
 ---
 
 ## 📊 GitHub Analytics
+
+**GitHub Streak:**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paramesh1800&theme=radical&hide_border=true"/>
 </p>
 
+**GitHub Stats & Top Languages:**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paramesh1800&show_icons=true&theme=radical&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh1800&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+**Contribution Graph:**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramesh1800&bg_color=0d1117&color=ffffff&line=3ECF8E&point=FF6C37&area=true&hide_border=true" />
 </p>
 
 ---
