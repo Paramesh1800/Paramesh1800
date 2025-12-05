@@ -24,57 +24,32 @@
 ---
 
 ## 🚀 Projects
-
 <p align="center">
-<b><ol>1. Automated Vulnerability Scanner</b> — Web application scanner to detect XSS & SQL Injection vulnerabilities.<br>
-<b>2. Email Spoofing Detector</b> — Detects spoofed emails using Gmail API and SPF/DMARC validation.<br>
-<b>3. Multi TWS Audio Streaming</b> — Real-time audio streaming across multiple devices using WebSocket.
-</ol></p>
-
----
-
-## 📊 GitHub Analytics
-
-**GitHub Streak:**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paramesh1800&theme=radical&hide_border=true"/>
-</p>
-
-**GitHub Stats & Top Languages:**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paramesh1800&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh1800&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-**Contribution Graph:**  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramesh1800&bg_color=0d1117&color=ffffff&line=3ECF8E&point=FF6C37&area=true&hide_border=true" />
+<ol>
+<li><b>Automated Vulnerability Scanner</b> — Web application scanner to detect XSS & SQL Injection vulnerabilities.</li>
+<li><b>Email Spoofing Detector</b> — Detects spoofed emails using Gmail API and SPF/DMARC validation.</li>
+<li><b>Multi TWS Audio Streaming</b> — Real-time audio streaming across multiple devices using WebSocket.</li>
+</ol>
 </p>
 
 ---
 
-## 💻 LeetCode Stats & Streak
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- LeetCode stats card -->
-  <img src="https://leetcode-stats.vercel.app/api?username=Paramesh18&theme=dark&show_icons=true"/>
-  <!-- LeetCard showing activity/streak -->
-  <img src="https://leetcard.jacoblin.cool/Paramesh18?theme=dark"/>
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paramesh1800&show_icons=true&theme=radical&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh1800&layout=compact&theme=radical&hide_border=true)
+
 </p>
 
 ---
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/paramesh-s-024847300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:parameshs23cys@srishakthi.ac.in">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://paramesh-s.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Paramesh1800" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
-</p>
+## ⏱ GitHub Streak (Alternative)
+Since the Heroku streak service can be unstable, you can use this **Vercel alternative** or temporarily skip streaks:
+
+```markdown
+![GitHub Streak](https://streak-stats.demolab.com?user=Paramesh1800&theme=radical&hide_border=true)
