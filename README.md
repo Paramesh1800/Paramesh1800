@@ -34,22 +34,50 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Top Languages
 
 <p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Paramesh1800&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paramesh1800&show_icons=true&theme=radical&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh1800&layout=compact&theme=radical&hide_border=true)
-
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh1800&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## ⏱ GitHub Streak (Alternative)
-Since the Heroku streak service can be unstable, you can use this **Vercel alternative** or temporarily skip streaks:
+## ⏱ GitHub Streak
 
-```markdown
-![GitHub Streak](https://streak-stats.demolab.com?user=Paramesh1800&theme=radical&hide_border=true)
+<p align="center">
+  <!-- Using alternative stable streak service -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paramesh1800&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+> Note: If the Heroku streak service is temporarily down, it might not load immediately. This is normal; it usually comes back after a few minutes.
+
+---
+
+## 💻 LeetCode Stats & Streak
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=Paramesh18&theme=dark&show_icons=true" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Paramesh18?theme=dark" alt="LeetCode Card" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/paramesh-s-024847300" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:parameshs23cys@srishakthi.ac.in">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://paramesh-s.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Paramesh1800" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
